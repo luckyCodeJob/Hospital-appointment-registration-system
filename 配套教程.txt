@@ -1,0 +1,7 @@
+﻿更多开源项目挑选，请直接在 “Designer小郑” 微信公众号，模拟搜索项目名称下载，回复“启动”获取讲解视频、二次开发教程。
+
+启动教程：https://www.bilibili.com/video/BV1GK1iYyE2B
+
+安装包下载：https://pan.baidu.com/s/1xpEz5bBy2ajG2hrAOplt2A?pwd=n31m
+
+学习交流Q群：971725191，入群备注Github，欢迎源码、部署、定制需求。
